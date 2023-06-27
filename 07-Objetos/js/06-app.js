@@ -12,3 +12,8 @@ const producto = {
         }
     }
 }
+//DESTRUCTURING
+const { nombre, informacion, informacion: { fabricacion: { pais } } } = producto;
+console.log(nombre);
+console.log(informacion);
+console.log(pais);

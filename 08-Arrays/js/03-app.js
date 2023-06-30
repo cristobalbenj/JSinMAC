@@ -1,4 +1,4 @@
-const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio'];
+const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio'];
 console.table(meses);
 
 //Cuanto mide el arreglo
